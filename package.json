@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/36t/slack-bolt-test/issues"
   },
-  "homepage": "https://github.com/36t/slack-bolt-test#readme"
+  "homepage": "https://github.com/36t/slack-bolt-test#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.0.0"
+  }
 }
